@@ -7,7 +7,19 @@ body {
 }
 
 .card {
-    border: 1px dotted blue;
+    
     padding: 20px;
     display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    background: #ddebf8;
+    color: #2b2839;
+    border-bottom: 6px solid #d8cefe;
+
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
